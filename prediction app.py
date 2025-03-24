@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 # Load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\siddu\OneDrive\Desktop\NIT_IIT Project\new_data1.csv")
+    return pd.read_csv("new_data1.csv")
 
 data = load_data()
 
