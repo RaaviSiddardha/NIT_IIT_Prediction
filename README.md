@@ -93,6 +93,7 @@ The app will be hosted at **http://localhost:8501/** where users can explore adm
 ✔ **Data Visualization**: Graphical insights on opening vs. closing ranks across different categories.  
 ✔ **Rank Prediction**: Users can input their details and get predicted closing ranks.  
 ✔ **Power BI Dashboards**: Real-time monitoring of admission predictions for better insights.
+https://nit-iit-prediction.onrender.com
 
 ## Model Architecture  
 The project uses a **Random Forest Regressor** to estimate admission cut-off ranks.  
